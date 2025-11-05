@@ -7,6 +7,7 @@ First, open VS Code and open a terminal:
 - Mac: Cmd + `` (backtick)
 
 ### 2. Clone the Repository
+Inside the folder you want to save the project (use cd), run:
 ```bash
 git clone https://github.com/jaszmine/qvsmtest.git
 ```
