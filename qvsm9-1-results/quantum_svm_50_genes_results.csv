@@ -1,0 +1,7 @@
+Method,Test_Accuracy,Quantum,Encoding_Type
+Amplitude QSVM,1.0,True,Amplitude
+Angle QSVM,1.0,True,Angle
+Classical linear,1.0,False,Classical
+Classical poly,0.8333333333333334,False,Classical
+Classical rbf,1.0,False,Classical
+Classical sigmoid,1.0,False,Classical

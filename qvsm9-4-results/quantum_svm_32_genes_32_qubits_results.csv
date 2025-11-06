@@ -1,0 +1,7 @@
+Method,Test_Accuracy,Quantum,Encoding_Type
+Amplitude QSVM,1.0,True,Amplitude
+Fixed 32-Qubit Angle QSVM,0.5,True,Fixed_32-Qubit_Angle
+Classical linear,0.8333333333333334,False,Classical
+Classical poly,0.8333333333333334,False,Classical
+Classical rbf,0.8333333333333334,False,Classical
+Classical sigmoid,1.0,False,Classical

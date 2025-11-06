@@ -1,0 +1,6 @@
+Method,Test_Accuracy,Quantum
+Amplitude QSVM,1.0,True
+Classical linear,1.0,False
+Classical poly,0.8333333333333334,False
+Classical rbf,1.0,False
+Classical sigmoid,1.0,False

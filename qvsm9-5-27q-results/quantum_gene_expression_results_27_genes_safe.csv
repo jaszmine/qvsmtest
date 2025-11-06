@@ -1,0 +1,8 @@
+Method,Test_Accuracy,Type
+Amplitude QSVM,1.0,Quantum
+Safe 27-Qubit Angle QSVM,0.5,Quantum
+Enhanced 27-Qubit Angle QSVM,0.5,Quantum
+Classical linear,0.8333333333333334,Classical
+Classical poly,0.8333333333333334,Classical
+Classical rbf,0.8333333333333334,Classical
+Classical sigmoid,1.0,Classical
